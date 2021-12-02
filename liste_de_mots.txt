@@ -1,0 +1,13 @@
+Carotte
+Chien
+Chat
+Tomate
+Coq
+Rat
+Banane
+Chevreuil
+Soleil
+Science
+Factures
+Fourmie
+Devoir de JAVA
