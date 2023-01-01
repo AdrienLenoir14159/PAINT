@@ -17,5 +17,3 @@ Entre autre :
 Ce dossier comporte déjà un exemple qui peut s'ouvrir via "Open", intitulé 'Exemple' (sans extension).
 
 Les graphismes pour les boutons ont été réalisés sur 'paint.net'.
-
-LENOIR Adrien, 2G2TD1TP2
